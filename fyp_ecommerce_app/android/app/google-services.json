@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "906945876949",
+    "project_id": "fyp-project-319fd",
+    "storage_bucket": "fyp-project-319fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906945876949:android:1b05317136f862306aa35c",
+        "android_client_info": {
+          "package_name": "com.example.fyp_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906945876949-kt6ia1ldg5tj6ptn97fb8eb223i1ab1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp_ecommerce_app",
+            "certificate_hash": "a57cc7166062ea2a76898aa83a9275f362a787cb"
+          }
+        },
+        {
+          "client_id": "906945876949-3d275m78crrov5rvtm18bpkc9uakqp7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMs6MCnXp5OGjdooRWtS1Wvh42ttRhMeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906945876949-3d275m78crrov5rvtm18bpkc9uakqp7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
