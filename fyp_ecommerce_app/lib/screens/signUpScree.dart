@@ -102,7 +102,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                                     email: emailcontroller.text,
                                      password: passwordcontroller.text);
                                      if(output=="success"){
-                                      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => SignInScreen(),));
+                                      Navigator.push(context, MaterialPageRoute(builder: (context) => SignInScreen(),));
                                      }else{
                                       utils().ShowSnackBar(context: context, content: output);
                                      }
